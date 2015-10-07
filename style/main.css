@@ -1,0 +1,174 @@
+body {
+    color: #333;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857;
+}body {
+    margin: 0;
+}header.main {height: 66px;
+    background: #e2ddc8 none repeat scroll 0 0;
+}
+
+.navbar {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: medium none;
+    border-radius: 0;
+    margin-bottom: 0;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+    display: block;
+}header.main .brand {
+    float: left;
+    margin: 0.125em 2em 0.125em 0;
+}
+a {
+    color: #f68334;
+    text-decoration: none;
+}header.main .toc {
+    padding-top: 8px;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #e7e7e7;
+}
+.navbar-collapse.collapse {
+    display: block !important;
+    height: auto !important;
+    overflow: visible !important;
+    padding-bottom: 0;
+}.navbar-nav {
+    border: 1px solid #979175;
+    margin-top: 0;
+}
+.navbar-nav {
+    float: left;
+}.navbar-nav > li:first-child {
+    border-left: medium none;
+}
+.navbar-default .navbar-nav > li {
+    background: rgba(0, 0, 0, 0) linear-gradient(to bottom, #f8ae7b 0%, #f58336 100%) repeat scroll 0 0;
+    color: #fff;
+}
+.navbar-nav > li {
+    float: left;
+}
+.nav > li {
+    display: block;
+    position: relative;
+}.navbar-default .navbar-nav > li > a {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    color: #fff;
+}
+.navbar-nav > li > a {
+    font-size: 13px;
+    padding-bottom: 0.230769em;
+    padding-top: 0.230769em;
+}
+.navbar-nav > li > a {
+    line-height: 20px;
+}
+.nav > li > a {
+    display: block;
+    position: relative;
+}.navbar-default .navbar-nav > li > a {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    color: #fff;
+}
+.navbar-nav > li > a {
+    font-size: 13px;
+    padding-bottom: 0.230769em;
+    padding-top: 0.230769em;
+}
+.navbar-nav > li > a {
+    line-height: 20px;
+}
+.nav > li > a {
+    display: block;
+    position: relative;
+}.navbar-nav.navbar-right:last-child {
+    margin-right: -15px;
+}
+.navbar-nav {
+    border: 1px solid #979175;
+    margin-top: 0;
+}
+.navbar-right {
+    float: right !important;
+}header.main .navbar-nav.login-nav > li, header.main .navbar-nav.add-memory > li {
+    background: #333 none repeat scroll 0 0;
+}
+.navbar-nav > li:first-child {
+    border-left: medium none;
+}
+.navbar-default .navbar-nav > li {
+    color: #fff;
+}.navbar-default .navbar-nav > li > a {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    color: #fff;
+}
+.navbar-nav > li > a {
+    font-size: 13px;
+    padding-bottom: 0.230769em;
+    padding-top: 0.230769em;
+}
+.navbar-nav > li > a {
+    line-height: 20px;
+}
+.nav > li > a {
+    display: block;
+    position: relative;
+}h2.page-title {
+    color: #f68334;
+    font-size: 26px;
+}.btn-primary {  background-image: linear-gradient(to bottom, #f68334 0px, #f68334 100%)!important;
+    background-color: #f68334!important;
+    border-color: #f5741c!important;
+    color: #fff!important;
+}.btn-default {
+    background-color: #fff;
+    border-color: #ccc;
+    color: #333;
+}a {
+    color: #f68334;
+    text-decoration: none;
+}
+a {
+    background: transparent none repeat scroll 0 0;
+}a {
+    color: #f68334;
+    text-decoration: none;
+}.navbar-fixed-bottom {
+    background: #bdb89c url("../images/background-main.jpg") repeat scroll 0 0!important;;
+    min-height: inherit;
+    padding-top: 40px;
+}footer.main .bg {
+    background: #fff none repeat scroll 0 0;
+}footer.main .nav {
+    display: table;
+    margin: 0 auto;
+}.nav > li > a {
+    display: block;
+    padding: 10px 15px;
+    position: relative;
+}
+a {
+    color: #f68334!important;
+    text-decoration: none;
+}.navbar-nav > li > a {
+    color: #fff !important;
+    padding-bottom: 3px !important;
+    padding-top: 3px !important;
+
+}.navbar-default {
+    background: transparent none repeat scroll 0 0!important;
+    border-radius: 0!important;
+    box-shadow: 0 0 0 0 #000 !important;
+}.navbar-default {
+    border-color: transparent!important;
+}.navbar-nav > li {
+    border-left: 1px solid #e2ddc8 !important;
+}.navbar-nav > li:first-child {
+    border-left: medium none!important;
+}.progress {
+  
+    opacity: 0!important; display: none!important; 
+}html body div#applicationHost div article#content.container.group.main div#login div.container div.row form.form-horizontal{ height:400px;}#login > div > div.row > form > div > div:nth-child(5){padding:3px 3px 5px 20px!important; }
